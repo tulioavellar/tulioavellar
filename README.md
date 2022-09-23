@@ -1,7 +1,7 @@
 # tulioavellar
  
 <div style="text-align: center;">
-    <img src='profile.png'>
+    <img src="profilebanner.png">
 </div> 
 <br>
 <p style="text-align: justify;">My name is Tulio Avellar, I'm a Chemical Engineer since 2015 and I've worked in the food and pharmaceutical industry, in the Quality Assurance. I've always loved coding, but I used to do it as a hobby and for a few subjects at the college. I started to feel an urge to find something new to achieve my career goals, and I've found it on coding. Since than, I began to study JavaScript, HTML, CSS and Python in order to advance to a next step in my career.</p>
