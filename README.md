@@ -19,7 +19,7 @@
 <br>
 <h2>📱 Contact</h2>
     <li>
-        <a href="https://www.linkedin.com/in/tulioavellar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="mailto:tuliorafaelga@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-0F80C1?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
-        <a href="https://www.codewars.com/users/tulioavellar"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/tulioavellar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="mailto:tuliorafaelga@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-0F80C1?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
+        <a href="https://www.codewars.com/users/tulioavellar" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
     </li>
