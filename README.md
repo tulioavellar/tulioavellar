@@ -4,7 +4,7 @@
     <img src="profilebanner.png">
 </div> 
 <br>
-<p style="text-align: justify;">My name is Tulio Avellar, I'm a Chemical Engineer since 2015 and I've worked in the food and pharmaceutical industry, in Quality Assurance. I've always loved coding, but I used to do it as a hobby and for a few subjects at college. I started to feel an urge to find something new to achieve my career goals, and I've found it in coding. Since then, I began to study Python, JavaScript, Java, HTML and CSS in order to advance to a next step in my career.</p>
+<p style="text-align: justify;">My name is Tulio Avellar, and I have been a Chemical Engineer since 2015. Throughout my career, I have worked in the food and pharmaceutical industries, specializing in Quality Assurance. Coding has always been a passion of mine—something I pursued as a hobby and occasionally explored during my studies at university. Over time, I felt the need to take my career in a new direction, and I found that opportunity in coding. Since then, I have dedicated myself to studying Python, JavaScript, Java, HTML, and CSS to take the next step in my professional journey.</p>
 <br>
 <h1>I'm current learning:</h1>
     <p>👩‍💻 Languages</p>
