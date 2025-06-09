@@ -15,9 +15,15 @@
          <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
          <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=F7DF1E">
     </li>
+    <p></p>
     <p>⚡ Databases</p>
     <li>
          <img src="https://img.shields.io/badge/Postgresql-3572A5?style=for-the-badge&logo=postgresql&logoColor=FFFFFF">
+    </li>
+    <p></p>
+    <p>🚀 Frameworks & Library</p>
+    <li>
+         <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=3572A5">
     </li>
 <br>
 <h2>📊 Statistics</h2>
