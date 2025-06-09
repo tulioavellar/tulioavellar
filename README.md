@@ -17,7 +17,7 @@
     </li>
     <p>⚡ Databases</p>
     <li>
-         <img src="https://img.shields.io/badge/Postgresql-0000FF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF">
+         <img src="https://img.shields.io/badge/Postgresql-3572A5?style=for-the-badge&logo=postgresql&logoColor=FFFFFF">
     </li>
 <br>
 <h2>📊 Statistics</h2>
