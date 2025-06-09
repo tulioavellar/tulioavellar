@@ -32,7 +32,7 @@
 <br>
 <h2>📱 Contact</h2>
     <li>
-        <a href="https://www.linkedin.com/in/tulioavellar/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+        <a href="https://www.linkedin.com/in/tulioavellar/" target="_blank"><img src="img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <a href="mailto:tuliorafaelga@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-3572A5?style=for-the-badge&logo=mailbox.org&logoColor=white"></a>
         <a href="https://www.codewars.com/users/tulioavellar" target="_blank"><img src="https://img.shields.io/badge/Codewars-E34F26?style=for-the-badge&logo=Codewars&logoColor=white"></a>
     </li>
