@@ -27,8 +27,8 @@
     </li>
 <br>
 <h2>📊 Statistics</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioavellar&layout=compact">
     <img src="https://www.codewars.com/users/tulioavellar/badges/large">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioavellar&layout=compact">
 <br>
 <h2>📱 Contact</h2>
     <li>
