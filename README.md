@@ -9,7 +9,7 @@
 <h1>I'm current learning:</h1>
     <p>👩‍💻 Languages</p>
     <li>
-         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+         <img src="https://img.shields.io/badge/C++-FAF9F6?style=for-the-badge&logo=cplusplus&logoColor=00599C">
          <img src="https://img.shields.io/badge/CSS3-563D7C?style=for-the-badge&logo=css&logoColor=white">
          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
          <img src="https://img.shields.io/badge/Java-008000?style=for-the-badge&logo=intellijidea&logoColor=white">
