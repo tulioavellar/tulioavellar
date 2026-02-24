@@ -1,39 +1,115 @@
-# tulioavellar
- 
-<div style="text-align: center;">
-    <img src="profilebanner.png">
-</div> 
-<br>
-<p style="text-align: justify;">My name is Tulio Avellar, and I have been a Chemical Engineer since 2015. Throughout my career, I have worked in the food and pharmaceutical industries, specializing in Quality Assurance. Coding has always been a passion of mine—something I pursued as a hobby and occasionally explored during my studies at university. Over time, I felt the need to take my career in a new direction, and I found that opportunity in coding. Since then, I have dedicated myself to studying C++, Python, JavaScript, Java, HTML, and CSS to take the next step in my professional journey.</p>
-<br>
-<h1>I'm current learning:</h1>
-    <p>👩‍💻 Languages</p>
-    <li>
-         <img src="https://img.shields.io/badge/C++-FAF9F6?style=for-the-badge&logo=cplusplus&logoColor=00599C">
-         <img src="https://img.shields.io/badge/CSS3-563D7C?style=for-the-badge&logo=css&logoColor=white">
-         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-         <img src="https://img.shields.io/badge/Java-008000?style=for-the-badge&logo=intellijidea&logoColor=white">
-         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-         <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=F7DF1E">
-    </li>
-    <p></p>
-    <p>⚡ Databases</p>
-    <li>
-         <img src="https://img.shields.io/badge/Postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=FFFFFF">
-    </li>
-    <p></p>
-    <p>🚀 Frameworks & Library</p>
-    <li>
-         <img src="https://img.shields.io/badge/React-FAF9F6?style=for-the-badge&logo=react&logoColor=3572A5">
-    </li>
-<br>
-<h2>📊 Statistics</h2>
-    <img src="https://www.codewars.com/users/tulioavellar/badges/large">
-    ![Language Stats](stats/leaderboard_by_lines.png)
-<br>
-<h2>📱 Contact</h2>
-    <li>
-        <a href="https://www.linkedin.com/in/tulioavellar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="mailto:tuliorafaelga@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-3572A5?style=for-the-badge&logo=mailbox.org&logoColor=white"></a>
-        <a href="https://www.codewars.com/users/tulioavellar" target="_blank"><img src="https://img.shields.io/badge/Codewars-E34F26?style=for-the-badge&logo=Codewars&logoColor=white"></a>
-    </li>
+# 👨🏻‍💻 Tulio Avellar
+
+**`FullStack Developer`**
+
+My name is Tulio Avellar, and I'm a Chemical Engineer since 2015 and a System Analyst since 2025. Throughout my career, I have worked in the food and pharmaceutical industries, specializing in Quality Assurance and Systems Validation. Coding has always been a passion of mine—something I pursued as a hobby and occasionally explored during my studies at university. Over time, I felt the need to take my career in a new direction, and I found that opportunity in coding. Since then, I have dedicated myself to studying C++, Python, JavaScript, Java, HTML, and CSS to take the next step in my professional journey.
+
+<p align="left">
+    <a href="https://github.com/tulioavellar?tab=followers">
+        <img 
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/tulioavellar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Languages & Technologies
+
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"       
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Statistics
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=tulioavellar&show_icons=true&theme=tokyoknight&include_all_commits=true&locale=en)"
+  />
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioavellar&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+  />
+
+</p>
