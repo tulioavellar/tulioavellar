@@ -29,7 +29,7 @@
 <br>
 <h2>📊 Statistics</h2>
     <img src="https://www.codewars.com/users/tulioavellar/badges/large">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioavellar&layout=compact">
+    ![Language Stats](stats/leaderboard_by_lines.png)
 <br>
 <h2>📱 Contact</h2>
     <li>
