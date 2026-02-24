@@ -94,6 +94,8 @@ My name is Tulio Avellar, and I'm a Chemical Engineer since 2015 and a System An
 <br/>
 <br/>
 
+---
+
 ### 📊 Statistics
 
 <p>
