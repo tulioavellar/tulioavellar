@@ -98,7 +98,6 @@ My name is Tulio Avellar, and I'm a Chemical Engineer since 2015 and a System An
 
 ### 📊 Statistics
 
-![Language Stats](stats/leaderboard_by_lines.png)
 <p>
   <img 
     align="left" 
