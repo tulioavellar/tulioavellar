@@ -99,20 +99,3 @@ My name is Tulio Avellar, and I'm a Chemical Engineer since 2015 and a System An
 ### 📊 Statistics
 
 ![Language Stats](stats/leaderboard_by_lines.png)
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=tulioavellar&show_icons=true&theme=tokyoknight&include_all_commits=true&locale=en)"
-  />
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioavellar&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
-</p>
