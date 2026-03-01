@@ -16,6 +16,7 @@ jobs:
       - uses: stefvuck/github-language-stats@v1.1.0
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
-          visualization_types: "leaderboard"
+          visualization_types: "donut"
           output_path: "stats"
-          
+          include_forks: "true"
+          dark_mode: "true"
